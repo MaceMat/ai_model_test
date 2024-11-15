@@ -1,0 +1,17 @@
+/* src/components/NewsPage.css */
+.data-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+  }
+  
+  .data-table th, .data-table td {
+    border: 1px solid #ccc;
+    padding: 10px;
+    text-align: left;
+  }
+  
+  .data-table th {
+    background-color: #f4f4f4;
+  }
+  
